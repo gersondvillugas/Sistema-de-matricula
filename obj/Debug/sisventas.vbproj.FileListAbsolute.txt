@@ -1,0 +1,123 @@
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\proyecto  visual\sisventas\sisventas\bin\Debug\sisventas.exe.config
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\proyecto  visual\sisventas\sisventas\bin\Debug\sisventas.exe
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\proyecto  visual\sisventas\sisventas\bin\Debug\sisventas.pdb
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\proyecto  visual\sisventas\sisventas\bin\Debug\sisventas.xml
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\proyecto  visual\sisventas\sisventas\obj\Debug\sisventas.vbprojResolveAssemblyReference.cache
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\proyecto  visual\sisventas\sisventas\obj\Debug\sisventas.Resources.resources
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\proyecto  visual\sisventas\sisventas\obj\Debug\sisventas.frmcliente.resources
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\proyecto  visual\sisventas\sisventas\obj\Debug\sisventas.vbproj.GenerateResource.Cache
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\proyecto  visual\sisventas\sisventas\obj\Debug\sisventas.vbproj.CoreCompileInputs.cache
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\proyecto  visual\sisventas\sisventas\obj\Debug\sisventas.exe
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\proyecto  visual\sisventas\sisventas\obj\Debug\sisventas.xml
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\proyecto  visual\sisventas\sisventas\obj\Debug\sisventas.pdb
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\bin\Debug\sisventas.exe.config
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\bin\Debug\sisventas.exe
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\bin\Debug\sisventas.pdb
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\bin\Debug\sisventas.xml
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\obj\Debug\sisventas.vbprojResolveAssemblyReference.cache
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\obj\Debug\sisventas.Form1.resources
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\obj\Debug\sisventas.Resources.resources
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\obj\Debug\sisventas.frmcliente.resources
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\obj\Debug\sisventas.ingreso_al_sistema.resources
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\obj\Debug\sisventas.vbproj.GenerateResource.Cache
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\obj\Debug\sisventas.vbproj.CoreCompileInputs.cache
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\obj\Debug\sisventas.exe
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\obj\Debug\sisventas.xml
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\obj\Debug\sisventas.pdb
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\obj\Debug\sisventas.login.resources
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\obj\Debug\sisventas.lg1.resources
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\obj\Debug\sisventas.frmcategoria.resources
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\obj\Debug\sisventas.frmproducto.resources
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\obj\Debug\sisventas.frmventa.resources
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\bin\Debug\sisventas.exe.manifest
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\bin\Debug\sisventas.application
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\obj\Debug\sisventas.TrustInfo.xml
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\obj\Debug\sisventas.exe.manifest
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\obj\Debug\sisventas.application
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\obj\Debug\sisventas.frmdetalle_venta.resources
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\CICLO III\curso de visual\PROYECTO DE VISUAL\sisventas\sisventas\obj\Debug\sisventas.frminicio.resources
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\obj\Debug\sisventas.vbprojResolveAssemblyReference.cache
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\obj\Debug\sisventas.Resources.resources
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\obj\Debug\sisventas.frmDocentes.resources
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\obj\Debug\sisventas.frminicio.resources
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\obj\Debug\sisventas.frmAlumnos.resources
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\obj\Debug\sisventas.ingreso_al_sistema.resources
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\obj\Debug\sisventas.lg1.resources
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\obj\Debug\sisventas.login.resources
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\obj\Debug\sisventas.vbproj.GenerateResource.Cache
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\obj\Debug\sisventas.vbproj.CoreCompileInputs.cache
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\obj\Debug\sisventas.exe
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\obj\Debug\sisventas.xml
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\obj\Debug\sisventas.pdb
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\bin\Debug\sisventas.exe.config
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\bin\Debug\sisventas.exe.manifest
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\bin\Debug\sisventas.application
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\bin\Debug\sisventas.exe
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\bin\Debug\sisventas.pdb
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\bin\Debug\sisventas.xml
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\obj\Debug\sisventas.TrustInfo.xml
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\obj\Debug\sisventas.exe.manifest
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\obj\Debug\sisventas.application
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\obj\Debug\sisventas.frmMatricula.resources
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\obj\Debug\sisventas.frmmateriass.resources
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\obj\Debug\sisventas.frmclases.resources
+C:\Users\samaniego\Documents\rk\cursos\PROGRAMACION\ciclo 3\sisventas\sisventas\obj\Debug\sisventas.frmAsistencia_A.resources
+C:\Users\manue\Desktop\COPIA REGISTROS DE ALUMNOS\sisventas\bin\Debug\sisventas.exe.config
+C:\Users\manue\Desktop\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.exe
+C:\Users\manue\Desktop\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.xml
+C:\Users\manue\Desktop\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.pdb
+F:\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\bin\Debug\sisventas.exe.config
+F:\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.exe
+F:\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.xml
+F:\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.pdb
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\bin\Debug\sisventas.exe.config
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\bin\Debug\sisventas.exe.manifest
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\bin\Debug\sisventas.application
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\bin\Debug\sisventas.exe
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\bin\Debug\sisventas.pdb
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\bin\Debug\sisventas.xml
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.vbprojAssemblyReference.cache
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.Resources.resources
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.frmclases.resources
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.frmDocentes.resources
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.frmmateriass.resources
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.frmMatricula.resources
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.frminicio.resources
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.frmAlumnos.resources
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.frmAsistencia_A.resources
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.ingreso_al_sistema.resources
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.lg1.resources
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.login.resources
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.vbproj.GenerateResource.cache
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.vbproj.CoreCompileInputs.cache
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.TrustInfo.xml
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.exe.manifest
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.application
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.exe
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.xml
+C:\Users\Gerson\Desktop\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.pdb
+C:\Users\Gerson\Desktop\sistemas2\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\bin\Debug\sisventas.exe.config
+C:\Users\Gerson\Desktop\sistemas2\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.exe
+C:\Users\Gerson\Desktop\sistemas2\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.xml
+C:\Users\Gerson\Desktop\sistemas2\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.pdb
+C:\Users\Gerson\Desktop\sistemas2\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\bin\Debug\sisventas.exe.manifest
+C:\Users\Gerson\Desktop\sistemas2\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\bin\Debug\sisventas.application
+C:\Users\Gerson\Desktop\sistemas2\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\bin\Debug\sisventas.exe
+C:\Users\Gerson\Desktop\sistemas2\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\bin\Debug\sisventas.pdb
+C:\Users\Gerson\Desktop\sistemas2\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\bin\Debug\sisventas.xml
+C:\Users\Gerson\Desktop\sistemas2\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.vbprojResolveAssemblyReference.cache
+C:\Users\Gerson\Desktop\sistemas2\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.Resources.resources
+C:\Users\Gerson\Desktop\sistemas2\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.frmclases.resources
+C:\Users\Gerson\Desktop\sistemas2\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.frmDocentes.resources
+C:\Users\Gerson\Desktop\sistemas2\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.frmmateriass.resources
+C:\Users\Gerson\Desktop\sistemas2\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.frmMatricula.resources
+C:\Users\Gerson\Desktop\sistemas2\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.frminicio.resources
+C:\Users\Gerson\Desktop\sistemas2\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.frmAlumnos.resources
+C:\Users\Gerson\Desktop\sistemas2\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.frmAsistencia_A.resources
+C:\Users\Gerson\Desktop\sistemas2\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.ingreso_al_sistema.resources
+C:\Users\Gerson\Desktop\sistemas2\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.lg1.resources
+C:\Users\Gerson\Desktop\sistemas2\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.login.resources
+C:\Users\Gerson\Desktop\sistemas2\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.vbproj.GenerateResource.Cache
+C:\Users\Gerson\Desktop\sistemas2\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.TrustInfo.xml
+C:\Users\Gerson\Desktop\sistemas2\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.exe.manifest
+C:\Users\Gerson\Desktop\sistemas2\sistema\COPIA REGISTROS DE ALUMNOS\sisventas\obj\Debug\sisventas.application
